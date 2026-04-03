@@ -1,3 +1,10 @@
+node_modules/
+dist/
+dist-server/
+.env
+*.log
+server-test.out.log
+server-test.err.log
 app/node_modules/
 app/dist/
 app/dist-server/
